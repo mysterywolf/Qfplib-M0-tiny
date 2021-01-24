@@ -1,6 +1,8 @@
 # Qfplib-M0-tiny:
 
-# a free ARM Cortex-M0 floating-point library in 1 kbyte
+## A free ARM Cortex-M0 floating-point library in 1 kbyte
+
+
 
 ## Introduction
 
