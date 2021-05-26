@@ -12,6 +12,15 @@ Many Cortex-M0 microcontrollers have very little program memory available, and s
 
 If you can afford the luxury of an additional 200 bytes in code size fast divide and square root functions (that do not guarantee correctly rounded results) are also available.
 
+## How to Obtain
+
+```
+ RT-Thread online packages  --->
+    system packages  --->
+        acceleration: Assembly language or algorithmic acceleration packages  --->
+            [*] Qfplib-M0-tiny: a free ARM Cortex-M0 floating-point library in 1 kbyte
+```
+
 ## Licence
 
 Qfplib-M0-tiny is open source, licensed under version 2 of the [GNU GPL](http://www.gnu.org/licenses/). Use at your own risk. If you wish to enquire about alternative licensing please use the e-mail address on the [home page](https://www.quinapalus.com/index.html).
