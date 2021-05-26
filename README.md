@@ -1,7 +1,6 @@
-# Qfplib-M0-tiny:
+# Qfplib-M0-tiny for RT-Thread
 
 ## A free ARM Cortex-M0 floating-point library in 1 kbyte
-
 
 
 ## Introduction
